@@ -1,16 +1,17 @@
-## Hi there 👋
+# Cybersecurity | SOC & VAPT
 
-<!--
-**raj-deepakkumar/raj-deepakkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year BCA Cybersecurity student at Poornima University, Jaipur.
+EC-Council Certified SOC Analyst (C|SA).
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building a Python web recon and vulnerability-assessment tool (private, in development)
+- Practicing SOC workflows and detection
+
+## Skills
+
+Python, web reconnaissance, security header and attack surface analysis, report automation, networking, CCTV and home network setup
+
+## Contact
+
+Email: raj.kdverma@gmail.com
