@@ -6,7 +6,7 @@ EC-Council Certified SOC Analyst (C|SA).
 ## What I'm working on
 
 - Building a Python web recon and vulnerability-assessment tool (private, in development)
-- Practicing SOC workflows and detection
+- Splunk detection lab: SPL searches and threshold detections on mail logs ([splunk-detection-lab](https://github.com/raj-deepakkumar/splunk-detection-lab))
 
 ## Skills
 
